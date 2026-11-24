@@ -2,14 +2,14 @@
   "round": 6,
   "cursor": 18432,
   "stats": {
-    "open": 301,
-    "in_range": 299,
+    "open": 258,
+    "in_range": 257,
     "verified": 0
   },
   "fingerprint": "f1459c7b407692c0cf44c3335334f34e2b87ccbd",
   "total": 18432,
   "round_started": "2026-11-24 11:40:50",
-  "updated": "2026-11-24 19:23:00",
+  "updated": "2026-11-24 19:34:00",
   "done_ports": [
     9443,
     30005,
@@ -50,7 +50,8 @@
     4444,
     8001,
     49154,
-    6443
+    6443,
+    14430
   ],
-  "port": 6443
+  "port": 14430
 }
