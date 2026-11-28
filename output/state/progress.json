@@ -1,15 +1,15 @@
 {
   "round": 7,
-  "cursor": 15306000,
+  "cursor": 16186000,
   "done_ports": [],
   "stats": {
-    "open": 2029433,
-    "in_range": 1897746,
-    "verified": 538
+    "open": 2124776,
+    "in_range": 1903504,
+    "verified": 554
   },
   "fingerprint": "d5d3448ea3076352af7a422070e093b4b779c1e0",
   "total": 211724800,
   "round_started": "2026-11-27 07:46:55",
   "port": 443,
-  "updated": "2026-11-28 05:46:15"
+  "updated": "2026-11-28 06:16:31"
 }
